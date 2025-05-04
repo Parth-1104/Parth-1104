@@ -5,9 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parth-1104" alt="parth-1104" /></a> </p>
 
-- 🌱 I’m currently learning **React, MongoDB , NodeJS**
+- 🌱 I’m currently learning **React, MongoDB, NodeJS**
 
 - 📫 How to reach me **singhparth427@gmail.com**
+
+- 📄 [View My Resume]([https://drive.google.com/file/d/your-resume-id/view?usp=sharing](https://docs.google.com/document/d/1NDllD6hSF6pk24B4Wg9c_uEEi1BHy39-/edit?usp=sharing&ouid=106639654737822191735&rtpof=true&sd=true))
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
