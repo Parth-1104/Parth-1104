@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parth-1104" alt="parth-1104" /></a> </p>
 
-- 🌱 I’m currently learning **React, MongoDB, NodeJS**
+- 🌱 I’m currently learning **LangChain, RestAPI, Pytorch**
 
 - 📫 How to reach me **singhparth427@gmail.com**
 
