@@ -1,30 +1,110 @@
-<h1 align="center">Hi 👋, I'm Parth Pankaj Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hi there, I'm Parth Pankaj Singh
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-1104&label=Profile%20views&color=0e75b6&style=flat" alt="parth-1104" /> </p>
+<div align="center">
+  
+### 🚀 Passionate Frontend Developer | AI Enthusiast | Open Source Contributor
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parth-1104" alt="parth-1104" /></a> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=parth-1104&label=Profile%20views&color=00d9ff&style=for-the-badge)](https://github.com/parth-1104)
+[![Email](https://img.shields.io/badge/Email-singhparth427%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhparth427@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1NDllD6hSF6pk24B4Wg9c_uEEi1BHy39-/edit?usp=sharing&ouid=106639654737822191735&rtpof=true&sd=true)
 
-- 🌱 I’m currently learning **LangChain, RestAPI, Pytorch**
+</div>
 
-- 📫 How to reach me **singhparth427@gmail.com**
+---
 
-- 📄 [View My Resume](https://docs.google.com/document/d/1NDllD6hSF6pk24B4Wg9c_uEEi1BHy39-/edit?usp=sharing&ouid=106639654737822191735&rtpof=true&sd=true)
+## 🎯 About Me
 
+```typescript
+const parth = {
+    location: "India 🇮🇳",
+    role: "Frontend Developer",
+    currentlyLearning: ["LangChain", "REST APIs", "PyTorch"],
+    interests: ["Web Development", "AI/ML", "Open Source"],
+    workingOn: "Building the future, one component at a time",
+    askMeAbout: ["React", "Angular", "Node.js", "AI Integration"]
+};
+```
 
+## 🌱 Currently Exploring
 
+<div align="center">
 
+| 🤖 AI & ML | 🌐 Backend | 📱 Frontend |
+|:----------:|:----------:|:-----------:|
+| **LangChain** | **REST APIs** | **Modern React** |
+| Building AI-powered apps | Scalable API design | Component architecture |
+| **PyTorch** | **Microservices** | **Performance Optimization** |
+| Deep learning models | Distributed systems | User experience |
 
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parth-1104&show_icons=true&locale=en&layout=compact" alt="parth-1104" /></p>
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parth-1104&show_icons=true&locale=en" alt="parth-1104" /></p>
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parth-1104&" alt="parth-1104" /></p>
+### Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=parth-1104&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-1104&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parth-1104&theme=tokyonight)](https://github.com/parth-1104)
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=parth-1104&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-pankaj-singh)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/parth_1104)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-url.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parth-1104)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Quote of the Day
+*"The best way to predict the future is to invent it."* - Alan Kay
+
+**⭐ Star my repositories if you find them useful!**
+
+</div>
