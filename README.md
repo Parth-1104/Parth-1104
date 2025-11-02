@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🚀 Passionate Frontend Developer | AI Enthusiast | Open Source Contributor
+ 🚀 Passionate AI ML Engineer | AI Enthusiast | Open Source Contributor
 
 [![Profile Views](https://komarev.com/ghpvc/?username=parth-1104&label=Profile%20views&color=00d9ff&style=for-the-badge)](https://github.com/parth-1104)
 [![Email](https://img.shields.io/badge/Email-singhparth427%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhparth427@gmail.com)
@@ -18,10 +18,10 @@
 const parth = {
     location: "India 🇮🇳",
     role: "Frontend Developer",
-    currentlyLearning: ["LangChain", "REST APIs", "PyTorch"],
-    interests: ["Web Development", "AI/ML", "Open Source"],
+    currentlyLearning: ["LangChain", "Fast API", "PyTorch"],
+    interests: ["AI Agents", "AI/ML", "Open Source"],
     workingOn: "Building the future, one component at a time",
-    askMeAbout: ["React", "Angular", "Node.js", "AI Integration"]
+    askMeAbout: ["React", "MLops", "Node.js", "AI Integration"]
 };
 ```
 
