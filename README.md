@@ -13,7 +13,7 @@
 ---
 
 
-![GitHub Streaks](https://chronogit.vercel.app/api/streaks/svg?username=Parth-1104&theme=dark&accent=%232ea043&_v=1)
+
 
 ## 🎯 About Me
 
